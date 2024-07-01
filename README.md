@@ -2,6 +2,13 @@
 
 The repository for Deep Learning Continous Assement 2. This is a pair work.
 
+# Set Up Instruction
+
+1. Make a `.env` file in the root directory
+2. Download the `emnist-letters-train.csv` from brightspace
+3. Add the `.csv` file to the root directory
+4. In the `.env` file, make a `DATASET_PATH` and link to the `.csv` file
+
 # CA2 Instruction
 
 ## Guidelines
