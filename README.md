@@ -119,24 +119,24 @@ If you write your own codes, you must submit them to support your work.
 
 ## Part A
 
-|        TASK         | Irman | Adam | Joachim |
-| :-----------------: | :---: | :--: | :-----: |
-| Background Research |  0%   | 50%  |   50%   |
-|         EDA         |  33%  | 33%  |   33%   |
-|   Model Research    |  50%  | 50%  |   0%    |
-|  Initial Modelling  |  70%  |  0%  |   30%   |
-|  Model Improvement  |  33%  | 33%  |   33%   |
-|  Model Evaluation   |  40%  | 20%  |   40%   |
-|   Report/Markdown   |  33%  | 33%  |   33%   |
+|        TASK         | Irman | Adam |
+| :-----------------: | :---: | :--: |
+| Background Research |  0%   | 100% |
+|         EDA         |  30%  | 70%  |
+|   Model Research    |  50%  | 50%  |
+|  Initial Modelling  | 100%  |  0%  |
+|  Model Improvement  |  50%  | 50%  |
+|  Model Evaluation   |  70%  | 30%  |
+|   Report/Markdown   |  50%  | 50%  |
 
 ## Part B
 
-|        TASK         | Irman | Adam | Joachim |
-| :-----------------: | :---: | :--: | :-----: |
-| Background Research |  0%   | 50%  |   50%   |
-|         EDA         |  33%  | 33%  |   33%   |
-|   Model Research    |  50%  | 50%  |   0%    |
-|  Initial Modelling  |  70%  |  0%  |   30%   |
-|  Model Improvement  |  33%  | 33%  |   33%   |
-|  Model Evaluation   |  40%  | 20%  |   40%   |
-|   Report/Markdown   |  33%  | 33%  |   33%   |
+|        TASK         | Irman | Adam |
+| :-----------------: | :---: | :--: |
+| Background Research |  0%   | 100% |
+|         EDA         |  30%  | 70%  |
+|   Model Research    |  50%  | 50%  |
+|  Initial Modelling  | 100%  |  0%  |
+|  Model Improvement  |  50%  | 50%  |
+|  Model Evaluation   |  70%  | 30%  |
+|   Report/Markdown   |  50%  | 50%  |
