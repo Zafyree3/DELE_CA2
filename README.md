@@ -140,3 +140,30 @@ If you write your own codes, you must submit them to support your work.
 |  Model Improvement  |  50%  | 50%  |
 |  Model Evaluation   |  70%  | 30%  |
 |   Report/Markdown   |  50%  | 50%  |
+
+# Research
+
+## GAN Variations
+
+There are 3 GAN Variations besides the on we were taught.
+
+### Deep Convolutional GAN (DCGAN)
+
+DCGANs use deep convolutional neural networks to learn the features of the input data, which allows them to generate high-resolution images that are similar to the training data. The generator network in a DCGAN typically consists of transposed convolutional layers, while the discriminator network consists of convolutional layers. The use of convolutional layers allows DCGANs to take advantage of the spatial relationships in the input data, which results in high-quality generated images.
+
+### Conditional GAN (CGAN)
+
+CGANs that allow the user to control the generated data by adding an additional input to the generator network. This input specifies the desired characteristics of the generated data, such as the color or shape of an image. CGANs can be thought of as a combination of a GAN and a conditional generative model, where the generator and discriminator are trained to take into account both the input data and the condition. This allows CGANs to generate data that is more in line with the user’s expectations.
+
+### Wasserstein GAN (WGAN)
+
+WGANs address some of the stability issues that are commonly encountered when training GANs. WGANs use the Wasserstein distance metric to evaluate the quality of the generated data, which has been shown to provide improved stability during training compared to other metrics. The Wasserstein distance metric measures the earth mover’s distance between the generated data and the training data, which provides a robust measure of the quality of the generated data. WGANs have been shown to be particularly effective for generating high-quality images.
+
+We will be using all these 3 GAN and compare them
+
+## Credits
+
+- neptune.ai
+  - [link](https://neptune.ai/blog/6-gan-architectures)
+- James Han
+  - [medium article](https://james-han.medium.com/three-common-types-of-generative-adversarial-networks-gans-dca667dadcf0)
