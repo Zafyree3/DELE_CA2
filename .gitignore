@@ -3,3 +3,6 @@ emnist-letters-train.csv
 EMNIST Letters Train.csv
 /training_checkpoints
 /training_images
+/images
+/discriminator
+/generator
