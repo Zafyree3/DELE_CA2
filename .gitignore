@@ -1,3 +1,5 @@
 .env
 emnist-letters-train.csv
 EMNIST Letters Train.csv
+training_checkpoints/*
+
