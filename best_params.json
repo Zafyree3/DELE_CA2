@@ -1,0 +1,1 @@
+{"d_conv_layers": 3, "d_num_filters_l0": 34, "d_num_filters_l1": 33, "d_num_filters_l2": 124, "g_convT_layers": 4, "g_num_filters_l0": 124, "g_num_filters_l1": 64, "g_num_filters_l2": 66, "g_num_filters_l3": 65, "epochs": 20}
